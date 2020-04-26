@@ -18,13 +18,13 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230718.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230718.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230852.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230911.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230921.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230945.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231005.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231017.png
-https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231030.png
+![1](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230718.png)
+![2](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230718.png)
+![3](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230852.png)
+![4](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230911.png)
+![5](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230921.png)
+![6](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-230945.png)
+![7](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231005.png)
+![8](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231017.png)
+![9](https://github.com/chenqiangdage/VueDemo/blob/master/img/WX20200426-231030.png)
 
